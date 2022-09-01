@@ -14,3 +14,6 @@ Once the jobs information has been exported and saved, from a CLI pointing to th
             python 'path/to/this/script.py'
 
 Make sure the paths for the args.txt file and the submission_params folder in the script are correct for your config.
+
+## Credits
+- [MenhirFX](www.menhirfx.com)
